@@ -1,4 +1,4 @@
-This project is NLP-based text filtering and finding similarities in the text.
+This project is NLP-based text filtering and finding similarities in the text and complete sentences.
 
 The project contains 3 ipynb Files and a description of each is given below:
 CrninjaDClean.ipynb: 
